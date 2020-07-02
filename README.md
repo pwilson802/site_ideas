@@ -9,3 +9,5 @@ guess the amimal type game:
 What the fox
 What the bear
 What the ...
+
+make own place image api
