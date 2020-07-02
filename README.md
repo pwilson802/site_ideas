@@ -11,3 +11,5 @@ What the bear
 What the ...
 
 make own place image api
+
+make blog on how to do IT stuff, at the top of each post is a tl;dr for quick info.  Then a more details explanation below.
